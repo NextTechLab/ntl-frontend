@@ -2,7 +2,7 @@ import React from 'react'
 
 function Landing() {
   return (
-    <div className=''>
+    <div className=' bg-[#FFFFF0] -mb-20'>
       <div>
         <div className=' flex bg-[#292929] h-screen justify-evenly items-center pr-10'>
              <div className=' max-w-4xl text-justify -mt-14'>
@@ -21,8 +21,13 @@ function Landing() {
           </picture>
         </div>
       </div>
-        <div className=' h-screen bg-[#FFFFF0]'>
-
+        <div className=' h-screen bg-[#FFFFF0] -mb-16'>
+            <div className='flex justify-center '>
+              
+              <div className=' border-2 border-[#29d9fe] h-5/6 -mt-16 absolute w-5/6 bg-[#fffff0]'>
+              <h3 className='relative -top-10 text-[#29D9FE] font-abril text-2xl'>Sublabs</h3>
+              </div>
+            </div>
         </div>
 
     </div>
