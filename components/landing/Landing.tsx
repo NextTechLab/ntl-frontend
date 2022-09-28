@@ -3,6 +3,7 @@ import React from 'react'
 function Landing() {
   return (
     <div className=''>
+      <div>
         <div className=' flex bg-[#292929] h-screen justify-evenly items-center pr-10'>
              <div className=' max-w-4xl text-justify -mt-14'>
                 <h1 className='text-[#29D9FE] text-4xl mb-2 font-abril'>The Next Tech Lab</h1>
@@ -14,7 +15,15 @@ function Landing() {
                 </picture>
              </div>
         </div>
-        <div></div>
+        <div className='flex justify-center -mt-28 pb-36 bg-[#292929]'>
+          <picture>
+            <img src="/scroll.png" alt="" className='hover:cursor-pointer' />
+          </picture>
+        </div>
+      </div>
+        <div className=' h-screen bg-[#FFFFF0]'>
+
+        </div>
 
     </div>
   )
