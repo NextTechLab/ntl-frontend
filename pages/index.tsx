@@ -8,6 +8,7 @@ const Home: NextPage = () => {
   return (
     <>
     <Head>
+      <title>The Next Tech Lab</title>
       <link rel="shortcut icon" href="/ntl.png" type="image/x-icon" />
     </Head>
     <Header/>
