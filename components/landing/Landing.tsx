@@ -4,7 +4,7 @@ function Landing() {
   return (
     <div className=' bg-[#FFFFF0] -mb-20'>
       <div>
-        <div className=' flex bg-[#292929] px-10 h-screen flex-col lg:space-x-16 md:flex-row justify-evenly items-center md:pr-10'>
+        <div className=' flex bg-[#292929] px-10 h-screen flex-col md:flex-row justify-evenly items-center md:pr-10'>
              <div className=' lg:max-w-4xl text-center md:text-justify md:-mt-14'>
                 <h1 className='text-[#29D9FE] text-4xl mb-2 font-abril'>The Next Tech Lab</h1>
                 <p className='font-cuprum text-sm md:text-xl md:tracking-wide'>SRM NextTechLab is a multidisciplinary student-led research and development lab. It is divided into 4 divisions, each specializing in their respective domains covering the spectrum of engineering and science. “The Lab” is a safe haven for it’s members to experiment and learn from others and with others. The Lab provides a self motivated environment which enables its members to continously grow and explore new aspects of their interests or something entirely different to their prior interests.</p>
@@ -24,13 +24,33 @@ function Landing() {
         <div className=' h-screen bg-[#FFFFF0] -mb-16'>
             <div className='flex justify-center '>
               
-              <div className=' border-2 border-[#29d9fe] h-5/6 mx-10 -mt-16 absolute w-11/12 bg-[#fffff0]'>
+              <div className=' h-5/6 mx-10 -mt-16 absolute w-11.5/12 bg-[#fffff0]'>
               <h3 className='relative -top-10 text-[#29D9FE] font-abril text-2xl'>Sublabs</h3>
               <div className='flex justify-around text-[#016FB9] text-xl font-abril'>
-              <div className=' '>McCarthy</div>
-              <div className=' '>Pausch</div>
-              <div className=' '>Satoshi</div>
-              <div className=' '>Tesla</div>
+              <div className=' flex flex-col items-center justify-between border-r-4 -mt-8 space-y-14 border-[#016FB9]'>
+                <p className='mt-10 font-cuprum'>McCarthy</p>
+                <picture className=''>
+                  <img src="/mcarthy.png" alt="" />
+                </picture>
+              </div>
+              <div className='flex flex-col items-center justify-between border-r-4 -mt-8 space-y-14 border-[#016FB9]'>
+                <p className='mt-10 font-cuprum'>Pausch</p>
+                <picture>
+                  <img src="/pausch.png" alt="" />
+                </picture>
+              </div>
+              <div className='flex flex-col items-center justify-between border-r-4 -mt-8 space-y-14 border-[#016FB9]'>
+                <p className='mt-10 font-cuprum'>Satoshi</p>
+                <picture>
+                  <img src="/pausch.png" alt="" />
+                </picture>
+              </div>
+              <div className='flex flex-col items-center -mt-8 justify-between'>
+                <p className='mt-10 font-cuprum' >Tesla</p>
+                <picture>
+                  <img src="/tesla.png" alt="" />
+                </picture>
+              </div>
               </div>
               </div>
             </div>
