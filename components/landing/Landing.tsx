@@ -27,25 +27,25 @@ function Landing() {
               <div className=' h-5/6 mx-10 -mt-16 absolute w-11.5/12 bg-[#fffff0]'>
               <h3 className='relative -top-10 text-[#29D9FE] font-abril text-2xl'>Sublabs</h3>
               <div className='flex justify-around text-[#016FB9] text-xl font-abril'>
-              <div className=' flex flex-col items-center justify-between border-r-4 -mt-8 space-y-14 border-[#016FB9]'>
+              <div className=' flex flex-col hover:border-4 items-center justify-between border-r-2 hover:w-full duration-1000 -mt-8 space-y-14 border-[#016FB9]'>
                 <p className='mt-10 font-cuprum'>McCarthy</p>
                 <picture className=''>
                   <img src="/mcarthy.png" alt="" />
                 </picture>
               </div>
-              <div className='flex flex-col items-center justify-between border-r-4 -mt-8 space-y-14 border-[#016FB9]'>
+              <div className='flex flex-col items-center duration-1000 hover:border-4 justify-between border-r-2 -mt-8 hover:w-full space-y-14 border-[#016FB9]'>
                 <p className='mt-10 font-cuprum'>Pausch</p>
                 <picture>
                   <img src="/pausch.png" alt="" />
                 </picture>
               </div>
-              <div className='flex flex-col items-center justify-between border-r-4 -mt-8 space-y-14 border-[#016FB9]'>
+              <div className='flex flex-col items-center duration-1000 hover:border-4 justify-between border-r-2 -mt-8 space-y-14 hover:w-full border-[#016FB9]'>
                 <p className='mt-10 font-cuprum'>Satoshi</p>
                 <picture>
                   <img src="/pausch.png" alt="" />
                 </picture>
               </div>
-              <div className='flex flex-col items-center -mt-8 justify-between'>
+              <div className='flex flex-col items-center -mt-8 hover:border-4 duration-1000 justify-between border-[#016FB9] hover:w-full'>
                 <p className='mt-10 font-cuprum' >Tesla</p>
                 <picture>
                   <img src="/tesla.png" alt="" />
