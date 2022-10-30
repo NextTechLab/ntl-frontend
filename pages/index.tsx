@@ -11,9 +11,7 @@ const Home: NextPage = () => {
       <title>The Next Tech Lab</title>
       <link rel="shortcut icon" href="/ntl.png" type="image/x-icon" />
     </Head>
-    <Header/>
     <Landing/>
-    <Footer/>
     </>
   )
 }
