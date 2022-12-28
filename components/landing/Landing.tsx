@@ -26,18 +26,18 @@ function Landing() {
       <div className=' h-96 lg:h-screen bg-[#FFFFF0] -mb-16'>
             <div className='flex justify-center'>
               
-              <div className=' mx-10 -mt-16 absolute w-11.5/12 bg-[#fffff0] hover:cursor-pointer'>
+              <div className=' mx-10 -mt-16 absolute w-11.5/12 bg-[#fffff0] hover:cursor-pointer border-2'>
               <h3 className='relative -top-10 text-[#29D9FE] font-roboto text-2xl'>Sublabs</h3>
-              <div className='md:flex text-[#016FB9] text-xl font-abril'>
+              <div className='md:flex text-[#016FB9] text-xl font-abril pb-10 md:pb-0'>
               <Link href=""><div className=' flex flex-1 flex-col min-w-0 items-center justify-between md:border-r-2 hover:w-full duration-1000 -mt-8 space-y-14 border-[#016FB9]'>
-                <p className='mt-10 font-cuprum'>McCarthy</p>
+                <p className='mt-10 font-cuprum px-20'>McCarthy</p>
                 <picture className='hidden md:inline'>
                   <img src="/mcarthy.png" alt="" />
                 </picture>
               </div></Link>
               
               <Link href=""><div className=' flex flex-1 flex-col  min-w-0 items-center justify-between md:border-r-2 hover:w-full duration-1000 -mt-8 space-y-14 border-[#016FB9]'>
-                <p className='mt-10 font-cuprum'>McCarthy</p>
+                <p className='mt-10 font-cuprum'>Norman</p>
                 <picture className='hidden md:inline'>
                   <img src="/mcarthy.png" alt="" />
                 </picture>

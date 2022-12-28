@@ -4,6 +4,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cuprum&family=Roboto&display=swap');
 html,
 body {
+  color: white;
+  background: black;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
@@ -19,23 +21,12 @@ a {
   box-sizing: border-box;
 }
 
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-    
-  }
-  .font-cuprum{
-    font-family: 'Cuprum', sans-serif;
-  }
-  .font-roboto{
-    font-family: 'Roboto', sans-serif;
-  }
-  .font-abril{
-    font-family: 'Abril Fatface', cursive;
-  }
+.font-cuprum{
+  font-family: 'Cuprum', sans-serif;
+}
+.font-roboto{
+  font-family: 'Roboto', sans-serif;
+}
+.font-abril{
+  font-family: 'Abril Fatface', cursive;
 }
