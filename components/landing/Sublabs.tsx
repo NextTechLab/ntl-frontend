@@ -14,11 +14,19 @@ const Sublabs: FunctionComponent = () => {
         Sublabs
       </h1>
       <div className="flex mx-6 pb-10 lg:mx-28 md:flex-wrap md:flex-row items-center justify-center md:justify-evenly lg:justify-around mt-14 flex-col">
-        <Labcards image="/mccarthy.png" name={MCCARTHY.NAME} />
-        <Labcards image="/norman.png" name={NORMAN.NAME} />
-        <Labcards image="/pausch.png" name={PAUSCH.NAME} />
-        <Labcards image="/satoshi.png" name={SATOSHI.NAME} />
-        <Labcards image="/tesla.png" name={TESLA.NAME} />
+        <Labcards
+          image="/mccarthy.png"
+          name={MCCARTHY.NAME}
+          slug={MCCARTHY.SLUG}
+        />
+        <Labcards image="/norman.png" name={NORMAN.NAME} slug={NORMAN.SLUG} />
+        <Labcards image="/pausch.png" name={PAUSCH.NAME} slug={PAUSCH.SLUG} />
+        <Labcards
+          image="/satoshi.png"
+          name={SATOSHI.NAME}
+          slug={SATOSHI.SLUG}
+        />
+        <Labcards image="/tesla.png" name={TESLA.NAME} slug={TESLA.SLUG} />
       </div>
     </div>
   );
