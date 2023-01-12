@@ -1,7 +1,7 @@
-import React from "react";
+import React, { FunctionComponent } from "react";
 import Link from "next/link";
 import { DETAILS } from "../../utils/constants";
-function Footer() {
+const Footer: FunctionComponent = () => {
   return (
     <div className="bg-[#292929] pb-8">
       <div className="flex justify-center items-center pt-4">
@@ -48,6 +48,6 @@ function Footer() {
       <div className="text-center">The Next Tech Lab</div>
     </div>
   );
-}
+};
 
 export default Footer;
