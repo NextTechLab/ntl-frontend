@@ -4,21 +4,26 @@ export const DETAILS = {
 }
 
 export const MCCARTHY = {
-    NAME:"McCarthy Lab"
+    NAME:"McCarthy Lab",
+    SLUG:"mccarthy-lab"
 }
 
 export const TESLA = {
-    NAME:"Tesla Lab"
+    NAME:"Tesla Lab",
+    SLUG:"tesla-lab"
 }
 
 export const PAUSCH = {
-    NAME:"Pausch Lab"
+    NAME:"Pausch Lab",
+    SLUG:"pausch-lab"
 }
 
 export const NORMAN = {
-    NAME:"Norman Lab"
+    NAME:"Norman Lab",
+    SLUG:"norman-lab"
 }
 
 export const SATOSHI = {
-    NAME:"Satoshi Lab"
+    NAME:"Satoshi Lab",
+    SLUG:"satoshi-lab"
 }
