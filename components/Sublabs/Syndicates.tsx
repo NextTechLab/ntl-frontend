@@ -8,7 +8,7 @@ function Syndicates() {
       <div className="">
         <Image src={myImage} alt="image"/>
       </div>
-      <div className="">
+      <div className=" ml-5 text-lg">
         <div className="">John Doe</div>
         <div className="">Domain name</div>
         <div className="">Department name</div>
