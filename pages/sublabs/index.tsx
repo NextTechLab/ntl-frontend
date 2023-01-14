@@ -3,7 +3,8 @@ import Memebrs from '../../components/Sublabs/Memebrs'
 import Syndicates from '../../components/Sublabs/Syndicates'
 import Title from '../../components/Sublabs/Title'
 
-function sublab() {
+function sublab(props:any) {
+  console.log(props.data);
   return (
     <div className='bg-[#FFFFF0] text-black'>
         <div className=' w-screen'>
@@ -40,6 +41,19 @@ function sublab() {
         </div>
     </div>
   )
+}
+
+// Fetching data from the JSON file
+import fsPromises from 'fs/promises';
+import path from 'path'
+export async function getStaticProps() {
+  const filePath = path.join(process.cwd(), './utils/Data.json');
+  const jsonData = await fsPromises.readFile(filePath);
+  const objectData = JSON.parse(jsonData.toString());
+
+  return {
+    props: objectData
+  }
 }
 
 export default sublab
