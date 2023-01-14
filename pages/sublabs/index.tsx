@@ -5,6 +5,8 @@ import Title from '../../components/Sublabs/Title'
 
 function sublab(props:any) {
   console.log(props.data);
+  const membersData=props.data;
+
   return (
     <div className='bg-[#FFFFF0] text-black'>
         <div className=' w-screen'>
@@ -19,11 +21,12 @@ function sublab(props:any) {
 
         <div className=" ">
           <Title title="Syndicates"/>
-          <div className="flex flex-wrap">
-            <Syndicates/>
-            <Syndicates/>
-            <Syndicates/>
-          </div>
+          {membersData.map(Data=>
+            <div className="flex flex-wrap">
+              <Syndicates/>
+            </div>
+            )}
+          
 
           <Title title= "Members"/>
           <div className="flex flex-wrap">
