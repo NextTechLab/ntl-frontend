@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import myImage from '../../public/image.png'
-import MembersDescription from './Details'
+import Details from './Details'
 
 function Syndicates() {
   return (
@@ -9,7 +9,7 @@ function Syndicates() {
       <div className="">
         <Image src={myImage} alt="image"/>
       </div>
-      <MembersDescription/>
+      <Details/>
     </div>
   )
 }

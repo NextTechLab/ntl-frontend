@@ -1,10 +1,11 @@
 import React from 'react'
+import Memebrs from '../../components/Sublabs/Memebrs'
 import Syndicates from '../../components/Sublabs/Syndicates'
 import Title from '../../components/Sublabs/Title'
 
 function sublab() {
   return (
-    <div className=''>
+    <div className='bg-[#FFFFF0] text-black'>
         <div className=' w-screen'>
             <picture >
                 <img className='w-full' src="/sublab.svg" alt="" />
@@ -16,11 +17,24 @@ function sublab() {
         </div>
 
         <div className=" ">
-          <Title/>
+          <Title title="Syndicates"/>
           <div className="flex flex-wrap">
             <Syndicates/>
             <Syndicates/>
             <Syndicates/>
+          </div>
+
+          <Title title= "Members"/>
+          <div className="flex flex-wrap">
+            <Memebrs/>
+            <Memebrs/>
+            <Memebrs/>
+            <Memebrs/>
+            <Memebrs/>
+            <Memebrs/>
+            <Memebrs/>
+            <Memebrs/>
+            <Memebrs/>
           </div>
           
         </div>

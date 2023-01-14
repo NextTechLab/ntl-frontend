@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { FunctionComponent } from 'react'
 
-function Title() {
+interface titleType {
+  title: string;
+};
+
+const Title:FunctionComponent<titleType>=({title}:titleType) =>{
   return (
-    <div className='bg-[#FFFFF0] text-[#29D9FE] w-full flex justify-center items-center text-3xl font-bold'>
-      Title
+    <div className=' text-[#29D9FE] w-full flex justify-center items-center text-3xl font-bold my-2'>
+      {title}
     </div>
   )
 }
