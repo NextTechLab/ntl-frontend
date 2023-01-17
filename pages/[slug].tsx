@@ -49,7 +49,7 @@ function Lab({ syndicates, members, about }: Props): JSX.Element {
                 key={key}
                 className="flex justify-center items-center p-4 w-40 h-20 mx-2 my-5"
               >
-                <Details key={key} name={member.name} position="Members" />
+                <Details key={key} name={member.name} position="Member" />
               </div>
             );
           })}
