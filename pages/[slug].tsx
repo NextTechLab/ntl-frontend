@@ -3,12 +3,13 @@ import Details from "../components/Sublabs/Details";
 type Props = {
   syndicates: any;
   members: any;
+  about: any;
 };
 
-function Lab({ syndicates, members }: Props): JSX.Element {
+function Lab({ syndicates, members, about }: Props): JSX.Element {
   // console.log(data);
-  console.log(syndicates);
-  console.log(members);
+  //   console.log(syndicates);
+  //   console.log(members);
   return (
     <div className="bg-[#FFFFF0] text-black">
       <div className="">
@@ -17,17 +18,8 @@ function Lab({ syndicates, members }: Props): JSX.Element {
         </picture>
       </div>
       <div className=" bg-[#FFFFF0] ">
-        <p className="text-black font-cuprum text-justify px-20 pt-6 font-semibold">
-          Pausch Lab for Human-Computer Interactions works on any field of tech
-          that is closely related to interactive experiences with machines.
-          Domains such as video game design and development, extended reality
-          research which includes augmented reality, virtual reality and mixed
-          reality, digital arts, 3D modelling, animations, user interface and
-          experience design and audio design and engineering all come under this
-          umbrella term of HCI. The interactive element of the research and
-          development makes work done in this lab both intensive and fun.
-          Members may specialise in only one of the aforementioned domains, or
-          gain proficiency in some or all of them.
+        <p className="text-black font-cuprum text-justify px-10 md:px-16 lg:px-20 pt-6 font-semibold">
+          {about}
         </p>
         <p className="pl-20 pt-4 font-medium text-lg text-[#016FB9]">
           2022-2023
@@ -78,7 +70,7 @@ export async function getServerSideProps(context: any) {
     return item.lab === context.params.slug;
   });
   const allMembers = data[0].members;
-
+  const about = data[0].about;
   const syndicates = allMembers.filter(
     (item: any) => item.position === "syndicate"
   );
@@ -88,6 +80,7 @@ export async function getServerSideProps(context: any) {
   return {
     props: {
       syndicates,
+      about,
       members,
     },
   };
