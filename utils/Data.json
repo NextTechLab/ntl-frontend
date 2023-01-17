@@ -1,0 +1,365 @@
+{
+  "data": [
+    {
+      "lab":"mccarthy-lab",
+      "members":[
+      {
+        "name":"Janvi Somani",
+        "position":"syndicate"
+      },
+      {
+        "name":"Aman Agarwal",
+        "position":"syndicate"
+      },
+      {
+        "name":"Pranav Gupta",
+        "position":"syndicate"
+      },
+      {
+        "name":"Harshit Agrawal",
+        "position":"syndicate"
+      },
+      {
+        "name":"Kunal Mundada",
+        "position":"syndicate"
+      },
+      {
+        "name":"Karan Pargal",
+        "position":"member"
+      },
+      {
+        "name":"Rishikesh",
+        "position":"member"
+      },
+      {
+        "name":"Abhay Lal",
+        "position":"member"
+      },
+      {
+        "name":"Aditya Agrawal",
+        "position":"member"
+      },
+      {
+        "name":"Sneha Patnaik",
+        "position":"member"
+      },
+      {
+        "name":"Aryan Raj",
+        "position":"member"
+      },
+      {
+        "name":"Simran Sachdeva",
+        "position":"member"
+      },
+      {
+        "name":"Aryan Kargwal",
+        "position":"member"
+      },
+      {
+        "name":"Krish Katyal",
+        "position":"member"
+      },
+      {
+        "name":"Sashrika Surya",
+        "position":"member"
+      },
+      {
+        "name":"Ananya Jha",
+        "position":"member"
+      },
+      {
+        "name":"Aakash Kaushik",
+        "position":"member"
+      },
+      {
+        "name":"Aditya Mukherjee",
+        "position":"member"
+      },
+      {
+        "name":"Parikshit",
+        "position":"member"
+      },
+      {
+        "name":"Srijako",
+        "position":"member"
+      },
+      {
+        "name":"Indira Dutta",
+        "position":"member"
+      }
+      ]
+    },
+    {
+      "lab":"tesla-lab",
+      "members":[
+      {
+        "name":"Swarnabha Das",
+        "position":"syndicate"
+      },
+      {
+        "name":"Snehil",
+        "position":"syndicate"
+      },
+      {
+        "name":"Atharva Patil",
+        "position":"syndicate"
+      },
+      {
+        "name":"Abhijeet",
+        "position":"syndicate"
+      },
+      {
+        "name":"Kishan Kumar",
+        "position":"member"
+      },
+      {
+        "name":"Gaurav Singh Chandrabhan",
+        "position":"member"
+      },
+      {
+        "name":"Kartikeya",
+        "position":"member"
+      },
+      {
+        "name":"Gita Alekhya Paul",
+        "position":"member"
+      },
+      {
+        "name":"Govind",
+        "position":"member"
+      },
+      {
+        "name":"Jayvardhan Rathi",
+        "position":"member"
+      },
+      {
+        "name":"Tanisha Bisht",
+        "position":"member"
+      },
+      {
+        "name":"Satyam",
+        "position":"member"
+      },
+      {
+        "name":"Parth Shah",
+        "position":"member"
+      },
+      {
+        "name":"Kanishk",
+        "position":"member"
+      },
+      {
+        "name":"Ria",
+        "position":"member"
+      },
+      {
+        "name":"Ronak Narkhende",
+        "position":"member"
+      },
+      {
+        "name":"Divyanshu Yadav",
+        "position":"member"
+      },
+      {
+        "name":"Subha Pal",
+        "position":"member"
+      },
+      {
+        "name":"Muzammil",
+        "position":"member"
+      },
+      {
+        "name":"Om Mukherjee",
+        "position":"member"
+      },
+      {
+        "name":"Disha Yadav",
+        "position":"member"
+      },
+      {
+        "name":"Vishal Tyagi",
+        "position":"member"
+      }
+      ]
+    },
+    {
+      "lab":"satoshi-lab",
+      "members":[
+      {
+        "name":"Shashank Joshi",
+        "position":"syndicate"
+      },
+      {
+        "name":"Arhan Choudhury",
+        "position":"syndicate"
+      },
+      {
+        "name":"Deepak ",
+        "position":"syndicate"
+      },
+      {
+        "name":"Manubhav Sharma",
+        "position":"syndicate"
+      },
+      {
+        "name":"Abhivansh Bhatnagar",
+        "position":"member"
+      },
+      {
+        "name":"Aditya Jain",
+        "position":"member"
+      },
+      {
+        "name":"Sreyom Sresaan",
+        "position":"member"
+      },
+      {
+        "name":"Shubha Jaiswal",
+        "position":"member"
+      },
+      {
+        "name":"Adrija Mukherjee",
+        "position":"member"
+      },
+      {
+        "name":"Mihir Gupta",
+        "position":"member"
+      },
+      {
+        "name":"Eeshan Dutta",
+        "position":"member"
+      },
+      {
+        "name":"Mayank",
+        "position":"member"
+      },
+      {
+        "name":"Yohenba Kshetriymayum",
+        "position":"member"
+      },
+      {
+        "name":"Adithya Balachandra",
+        "position":"member"
+      },
+      {
+        "name":"Rushil",
+        "position":"member"
+      }
+      ]
+    },
+    {
+      "lab":"pausch-lab",
+      "members":[
+      {
+        "name":"Adamya Sharma",
+        "position":"syndicate"
+      },
+      {
+        "name":"Omang Baheti",
+        "position":"syndicate"
+      },
+      {
+        "name":"Tushar Vaid",
+        "position":"syndicate"
+      },
+      {
+        "name":"Ritik Srivastav",
+        "position":"syndicate"
+      },
+      {
+        "name":"Rishav Banerjee",
+        "position":"syndicate"
+      },
+      {
+        "name":"Vighnesh Pradhan",
+        "position":"member"
+      },
+      {
+        "name":"Somathing Luikham",
+        "position":"member"
+      },
+      {
+        "name":"Siddhant Naik",
+        "position":"member"
+      },
+      {
+        "name":"Akshat sen",
+        "position":"member"
+      },
+      {
+        "name":"Ravikul Rao",
+        "position":"member"
+      },
+      {
+        "name":"Vedant Singh",
+        "position":"member"
+      },
+      {
+        "name":"Rishabh Abhani",
+        "position":"member"
+      },
+      {
+        "name":"Anushree Bajaj",
+        "position":"member"
+      },
+      {
+        "name":"Shivam Shekhar",
+        "position":"member"
+      },
+      {
+        "name":"Soham Sakaria",
+        "position":"member"
+      },
+      {
+        "name":"Aniruddha Goutam",
+        "position":"member"
+      },
+      {
+        "name":"Chinmay Arora",
+        "position":"member"
+      },
+      {
+        "name":"Harsh Kulkarni",
+        "position":"member"
+      },
+      {
+        "name":"Shivam Bhardwaj",
+        "position":"member"
+      },
+      {
+        "name":"Divyansh Purohit",
+        "position":"member"
+      },
+      {
+        "name":"Shubra Agarwal",
+        "position":"member"
+      },
+      {
+        "name":"Naman Alagh",
+        "position":"member"
+      }
+      ]
+    },
+    {
+      "lab":"norman-lab",
+      "members":[
+        {
+        "name":"Atharva Patil",
+        "position":"syndicate"
+        },
+        {
+        "name":"Divyanshu Yadav",
+        "position":"member"
+        },
+        {
+        "name":"Lakshya Dhariwal",
+        "position":"member"
+        },
+        {
+        "name":"Abhijeet",
+        "position":"syndicate"
+        }
+      ]
+    }
+  ]
+}
