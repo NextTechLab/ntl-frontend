@@ -13,7 +13,7 @@ const Labcards: FunctionComponent<Labtype> = ({
 }: Labtype) => {
   return (
     <div>
-      <div className="lg:mx-6 md:w-80 md:h-auto flex flex-col rounded-xl border-4 lg:mb-24 mb-10 border-[#29D9FE] p-14 pt-16 bg-[#292929]">
+      <div className="lg:mx-6 md:w-80 md:h-96 flex flex-col rounded-xl border-4 lg:mb-24 mb-10 border-[#29D9FE] p-14 pt-16 bg-[#292929]">
         <div className="event-card-master lg:block md:flex md:flex-col md:justify-evenly lg:mt-2 ">
           <div className="-mt-10 image-block justify-center flex mb-3">
             <picture>
