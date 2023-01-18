@@ -8,7 +8,7 @@ const Landing: FunctionComponent = () => {
       <div>
         <div className=" flex bg-[#292929] px-10 h-screen flex-col lg:flex-row justify-evenly items-center md:pr-10">
           <div className=" lg:max-w-2xl lg:mr-10 text-center md:text-justfy md:-mt-14">
-            <h1 className="text-[#29D9FE] text-4xl mb-2 font-bold font-serif text-left">
+            <h1 className="text-[#29D9FE] md:text-4xl text-3xl mb-2 font-bold font-serif text-left">
               The Next Tech Lab
             </h1>
             <p className="font-cuprum text-sm md:text-xl md:tracking-wide text-justify">
