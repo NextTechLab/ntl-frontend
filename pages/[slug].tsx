@@ -4,14 +4,23 @@ type Props = {
   syndicates: any;
   members: any;
   about: any;
+  lab: any;
 };
 
-function Lab({ syndicates, members, about }: Props): JSX.Element {
+const Lab: NextPage<Props> = ({
+  syndicates,
+  members,
+  about,
+  lab,
+}: Props): JSX.Element => {
   // console.log(data);
   //   console.log(syndicates);
   //   console.log(members);
   return (
     <div className="bg-[#FFFFF0] text-black">
+      <Head>
+        <title>The Next Tech Lab - {lab}</title>
+      </Head>
       <div className="">
         <picture>
           <img className="w-full" src="/sublab.svg" alt="" />
@@ -21,9 +30,9 @@ function Lab({ syndicates, members, about }: Props): JSX.Element {
         <p className="text-black font-cuprum text-justify px-10 md:px-16 lg:px-20 pt-6 font-semibold">
           {about}
         </p>
-        <p className="pl-20 pt-4 font-medium text-lg text-[#016FB9]">
+        {/* <p className="pl-20 pt-4 font-medium text-lg text-[#016FB9]">
           2022-2023
-        </p>
+        </p> */}
       </div>
 
       <div className=" ">
@@ -57,11 +66,13 @@ function Lab({ syndicates, members, about }: Props): JSX.Element {
       </div>
     </div>
   );
-}
+};
 
 // Fetching data from the JSON file
 import fsPromises from "fs/promises";
 import path from "path";
+import { NextPage } from "next";
+import Head from "next/head";
 export async function getServerSideProps(context: any) {
   const filePath = path.join(process.cwd(), "utils/Data.json");
   const jsonData = await fsPromises.readFile(filePath);
@@ -71,6 +82,7 @@ export async function getServerSideProps(context: any) {
   });
   const allMembers = data[0].members;
   const about = data[0].about;
+  const lab = data[0].name;
   const syndicates = allMembers.filter(
     (item: any) => item.position === "syndicate"
   );
@@ -79,6 +91,7 @@ export async function getServerSideProps(context: any) {
 
   return {
     props: {
+      lab,
       syndicates,
       about,
       members,

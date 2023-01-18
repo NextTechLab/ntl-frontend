@@ -2,6 +2,7 @@
   "data": [
     {
       "lab":"mccarthy-lab",
+      "name":"McCarthy Lab",
       "about":"The McCarthy Lab is a dynamic and collaboration-driven group dedicated to research and work to answer deep and foundational questions in the theory of machine learning, ranging from fundamental Bayesian algorithms to deep learning methodologies. The main areas of development are supervised, unsupervised and reinforcement learning. Auxiliary applications such as Computer Vision and Natural Language Processing are also major cornerstones of development, and the ultimate goal of the lab is to familiarise themselves with a vast array of machine learning and deep learningalgorithms.",
       "members":[
       {
@@ -92,6 +93,7 @@
     },
     {
       "lab":"tesla-lab",
+      "name":"Tesla Lab",
       "about":"Tesla Lab of IoT, Robotics and Web Development studies and develops a wide range of applications from mobile appliances, fully autonomous devices, and ML on-edge products to fully deployed websites with a beautiful front end to a robust backend The unorthodox fusion between core software and core hardware allows for end-to-end products to be built, tested, deployed and maintained all within the capacity of the lab. The sky's the limit for innovation, and the ability to redefine both the physical and virtual world to bend reality and one's abilities are the quintessential purposes of the lab",
       "members":[
       {
@@ -186,6 +188,7 @@
     },
     {
       "lab":"satoshi-lab",
+      "name":"Satoshi Lab",
       "about":"Satoshi Lab for Blockchain and Cybersecurity has a dual focus on the emerging crypto space and the ever-present domain of defending against digital warfare. The nascent space of blockchain research into setting up a ledger-based authentication network from scratch, or working on applications for existing blockchains. Cybersecurity on the other hand deals with network security, penetration testing, revamping vulnerable websites, reverse engineering various exploits, and secure coding and cryptography techniques. The general aim of the lab is to automate the process of authentication and protection in our ever-expanding virtual space by employing advanced protection techniques and putting control into the hands of the general populace.",
       "members":[
       {
@@ -252,6 +255,7 @@
     },
     {
       "lab":"pausch-lab",
+      "name":"Pausch Lab",
       "about":"Pausch Lab for Human-Computer Interactions works on any field of tech that is closely related to interactive experiences with machines. Domains such as video game design and development, extended reality research which includes augmented reality, virtual reality and mixed reality, digital arts, 3D modelling, animations, user interface and experience design and audio design and engineering all come under this umbrella term of HCI.The interactive element of the research and development makes work done in this lab both intensive and fun. Members may specialise in only one of the aforementioned domains, or gain proficiency in some or all of them. ",
       "members":[
       {
@@ -346,6 +350,7 @@
     },
     {
       "lab":"norman-lab",
+      "name":"Norman Lab",
       "about":"under - constructions",
       "members":[
         {

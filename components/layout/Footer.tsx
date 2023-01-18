@@ -5,10 +5,12 @@ const Footer: FunctionComponent = () => {
   return (
     <div className="bg-[#292929] pb-8">
       <div className="flex justify-center items-center pt-4">
-        <picture className=" flex justify-center">
-          <img className="mr-2 ml-6" src="/address.svg" alt="" />
+        <picture className="justify-center hidden md:flex">
+          <img className=" ml-6  md:mr-2" src="/address.svg" alt="" />
         </picture>
-        <p className=" text-center">{DETAILS.ADDRESS}</p>
+        <p className="mx-2 text-center text-sm md:text-md pb-2">
+          {DETAILS.ADDRESS}
+        </p>
       </div>
       <div className="flex justify-center">
         <picture className=" flex lg:space-x-4 space-x-2 pt-2">
@@ -44,8 +46,10 @@ const Footer: FunctionComponent = () => {
           </Link>
         </picture>
       </div>
-      <div className=" text-center pt-6">Designed & Developed with 🪄 by</div>
-      <div className="text-center">The Next Tech Lab</div>
+      <div className=" text-center pt-4 text-sm md:text-md">
+        Designed & Developed with 🪄 by
+      </div>
+      <div className="text-center text-sm md:text-md">The Next Tech Lab</div>
     </div>
   );
 };
