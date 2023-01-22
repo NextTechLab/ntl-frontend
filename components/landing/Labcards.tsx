@@ -15,7 +15,7 @@ const Labcards: FunctionComponent<Labtype> = ({
     <div>
       <div className="lg:mx-6 px-10 py-4 h-auto flex flex-col rounded-xl border-4 lg:mb-24 mb-10 border-[#29D9FE] bg-[#292929]">
         <div className="event-card-master lg:block md:flex md:flex-col md:justify-evenly">
-          <div className="image-block justify-center flex mb-3">
+          <div className="image-block justify-center flex mb-3 py-4">
             <picture>
               <img src={image} width={200} alt="lab-image" />
             </picture>
