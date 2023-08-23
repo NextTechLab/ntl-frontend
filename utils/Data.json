@@ -81,165 +81,182 @@
       ]
     },
     {
-      "lab":"tesla-lab",
-      "name":"Tesla Lab",
-      "about":"Tesla Lab of IoT, Robotics and Web Development studies and develops a wide range of applications from mobile appliances, fully autonomous devices, and ML on-edge products to fully deployed websites with a beautiful front end to a robust backend The unorthodox fusion between core software and core hardware allows for end-to-end products to be built, tested, deployed and maintained all within the capacity of the lab. The sky's the limit for innovation, and the ability to redefine both the physical and virtual world to bend reality and one's abilities are the quintessential purposes of the lab",
-      "members":[
-      {
-      "name":"Abid",
-      "position":"syndicate",
-      "github":"https://github.com/swarnabha13",
-      "linkedin":"https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
-      },
-      {
-      "name":"Snehil",
-      "position":"member"
-      },
-      {
-      "name":"Atharva Patil",
-      "position":"member"
-      },
-      {
-      "name":"Abhijeet",
-      "position":"member"
-      },
-      {
-      "name":"Kishan Kumar",
-      "position":"member"
-      },
-      {
-      "name":"Gaurav Singh Chandrabhan",
-      "position":"member"
-      },
-      {
-      "name":"Kartikeya",
-      "position":"member"
-      },
-      {
-      "name":"Gita Alekhya Paul",
-      "position":"member"
-      },
-      {
-      "name":"Govind",
-      "position":"member"
-      },
-      {
-      "name":"Jayvardhan Rathi",
-      "position":"member"
-      },
-      {
-      "name":"Tanisha Bisht",
-      "position":"member"
-      },
-      {
-      "name":"Satyam Sai",
-      "position":"member"
-      },
-      {
-      "name":"Parth Shah",
-      "position":"member"
-      },
-      {
-      "name":"Kanishk",
-      "position":"member"
-      },
-      {
-      "name":"Ria",
-      "position":"member"
-      },
-      {
-      "name":"Ronak Narkhende",
-      "position":"member"
-      },
-      {
-      "name":"Divyanshu Yadav",
-      "position":"member"
-      },
-      {
-      "name":"Subha Pal",
-      "position":"member"
-      },
-      {
-      "name":"Muzammil",
-      "position":"member"
-      },
-      {
-      "name":"Om Mukherjee",
-      "position":"member"
-      },
-      {
-      "name":"Disha Yadav",
-      "position":"member"
-      },
-      {
-      "name":"Vishal Tyagi",
-      "position":"member"
-      },
-      {
-      "name":"Aakash",
-      "position":"member"
-      },
-      {
-      "name": "Anish Patil",
-      "position": "member"
-      },
-      {
-      "name": "Harsh Bajaj",
-      "position": "member"
-      },
-      {
-      "name": "Anurag Jain",
-      "position": "member"
-      
-      },
-      {
-      "name": "Arvind A",
-      "position" : "member"
-      },
-      {
-      "name": "Aaditya Sarin",
-      "position": "member"
-      },
-      {
-      "name": "Anshul",
-      "position" : "member"
-      },
-      {
-      "name" : "Sumanth Gopishetty",
-      "position" : "member"
-      },
-      {
-      "name" : "Abdul Ahad",
-      "position" : "member"
-      },
-      {
-      "name" : "Alok Prasad",
-      "position" : "member"
-      }
-      
-      
+      "lab": "tesla-lab",
+      "name": "Tesla Lab",
+      "about": "Tesla Lab of IoT, Robotics and Web Development studies and develops a wide range of applications from mobile appliances, fully autonomous devices, and ML on-edge products to fully deployed websites with a beautiful front end to a robust backend The unorthodox fusion between core software and core hardware allows for end-to-end products to be built, tested, deployed and maintained all within the capacity of the lab. The sky's the limit for innovation, and the ability to redefine both the physical and virtual world to bend reality and one's abilities are the quintessential purposes of the lab",
+      "members": [
+        {
+          "name": "Abid",
+          "position": "syndicate",
+          "github": "https://github.com/swarnabha13",
+          "linkedin": "https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
+        },
+        {
+          "name": "Snehil",
+          "position": "member"
+        },
+        {
+          "name": "Atharva Patil",
+          "position": "member"
+        },
+        {
+          "name": "Abhijeet",
+          "position": "member"
+        },
+        {
+          "name": "Kishan Kumar",
+          "position": "member"
+        },
+        {
+          "name": "Gaurav Singh Chandrabhan",
+          "position": "member"
+        },
+        {
+          "name": "Kartikeya",
+          "position": "member"
+        },
+        {
+          "name": "Gita Alekhya Paul",
+          "position": "member"
+        },
+        {
+          "name": "Govind",
+          "position": "member"
+        },
+        {
+          "name": "Jayvardhan Rathi",
+          "position": "member"
+        },
+        {
+          "name": "Tanisha Bisht",
+          "position": "member"
+        },
+        {
+          "name": "Satyam Sai",
+          "position": "member"
+        },
+        {
+          "name": "Parth Shah",
+          "position": "member"
+        },
+        {
+          "name": "Kanishk",
+          "position": "member"
+        },
+        {
+          "name": "Ria",
+          "position": "member"
+        },
+        {
+          "name": "Ronak Narkhende",
+          "position": "member"
+        },
+        {
+          "name": "Divyanshu Yadav",
+          "position": "member"
+        },
+        {
+          "name": "Subha Pal",
+          "position": "member"
+        },
+        {
+          "name": "Muzammil",
+          "position": "member"
+        },
+        {
+          "name": "Om Mukherjee",
+          "position": "member"
+        },
+        {
+          "name": "Disha Yadav",
+          "position": "member"
+        },
+        {
+          "name": "Vishal Tyagi",
+          "position": "member"
+        },
+        {
+          "name": "Aakash",
+          "position": "member"
+        },
+        {
+          "name": "Anish Patil",
+          "position": "member"
+        },
+        {
+          "name": "Harsh Bajaj",
+          "position": "member"
+        },
+        {
+          "name": "Anurag Jain",
+          "position": "member"
+        },
+        {
+          "name": "Arvind A",
+          "position": "member"
+        },
+        {
+          "name": "Aaditya Sarin",
+          "position": "member"
+        },
+        {
+          "name": "Anshul",
+          "position": "member"
+        },
+        {
+          "name": "Sumanth Gopishetty",
+          "position": "member"
+        },
+        {
+          "name": "Abdul Ahad",
+          "position": "member"
+        },
+        {
+          "name": "Alok Prasad",
+          "position": "member"
+        }
       ]
-      },
+    },
     {
       "lab": "satoshi-lab",
       "name": "Satoshi Lab",
       "about": "Satoshi Lab for Blockchain and Cybersecurity has a dual focus on the emerging crypto space and the ever-present domain of defending against digital warfare. The nascent space of blockchain research into setting up a ledger-based authentication network from scratch, or working on applications for existing blockchains. Cybersecurity on the other hand deals with network security, penetration testing, revamping vulnerable websites, reverse engineering various exploits, and secure coding and cryptography techniques. The general aim of the lab is to automate the process of authentication and protection in our ever-expanding virtual space by employing advanced protection techniques and putting control into the hands of the general populace.",
       "members": [
         {
-          "name": "Shashank Joshi",
+          "name": "Pratham Bhatnagar",
           "position": "syndicate"
+        },
+        {
+          "name": "Shashank Joshi",
+          "position": "member"
+        },
+        {
+          "name": "Aditya Singh",
+          "position": "member"
+        },
+        {
+          "name": "Aryan Rai",
+          "position": "member"
+        },
+        {
+          "name": "Surajit Dey Sarkar",
+          "position": "member"
         },
         {
           "name": "Arhan Choudhury",
-          "position": "syndicate"
+          "position": "member"
         },
         {
           "name": "Deepak ",
-          "position": "syndicate"
+          "position": "member"
         },
         {
           "name": "Manubhav Sharma",
-          "position": "syndicate"
+          "position": "member"
+        },
+        {
+          "name": "Anjali Tharun",
+          "position": "member"
         },
         {
           "name": "Abhivansh Bhatnagar",
