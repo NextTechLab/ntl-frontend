@@ -98,7 +98,9 @@
       "members":[
       {
         "name":"Swarnabha Das",
-        "position":"syndicate"
+        "position":"syndicate",
+        "github":"https://github.com/swarnabha13",
+        "linkedin":"https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
       },
       {
         "name":"Snehil",
@@ -351,25 +353,100 @@
     {
       "lab":"norman-lab",
       "name":"Norman Lab",
-      "about":"under - constructions",
+      "about":"Norman Lab",
       "members":[
-        {
+      {
+        "name":"Swarnabha Das",
+        "position":"syndicate",
+        "github":"https://github.com/swarnabha13",
+        "linkedin":"https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
+      },
+      {
+        "name":"Snehil",
+        "position":"syndicate"
+      },
+      {
         "name":"Atharva Patil",
         "position":"syndicate"
-        },
-        {
-        "name":"Divyanshu Yadav",
-        "position":"member"
-        },
-        {
-        "name":"Lakshya Dhariwal",
-        "position":"member"
-        },
-        {
+      },
+      {
         "name":"Abhijeet",
         "position":"syndicate"
-        }
+      },
+      {
+        "name":"Kishan Kumar",
+        "position":"member"
+      },
+      {
+        "name":"Gaurav Singh Chandrabhan",
+        "position":"member"
+      },
+      {
+        "name":"Kartikeya",
+        "position":"member"
+      },
+      {
+        "name":"Gita Alekhya Paul",
+        "position":"member"
+      },
+      {
+        "name":"Govind",
+        "position":"member"
+      },
+      {
+        "name":"Jayvardhan Rathi",
+        "position":"member"
+      },
+      {
+        "name":"Tanisha Bisht",
+        "position":"member"
+      },
+      {
+        "name":"Satyam",
+        "position":"member"
+      },
+      {
+        "name":"Parth Shah",
+        "position":"member"
+      },
+      {
+        "name":"Kanishk",
+        "position":"member"
+      },
+      {
+        "name":"Ria",
+        "position":"member"
+      },
+      {
+        "name":"Ronak Narkhende",
+        "position":"member"
+      },
+      {
+        "name":"Divyanshu Yadav",
+        "position":"member"
+      },
+      {
+        "name":"Subha Pal",
+        "position":"member"
+      },
+      {
+        "name":"Muzammil",
+        "position":"member"
+      },
+      {
+        "name":"Om Mukherjee",
+        "position":"member"
+      },
+      {
+        "name":"Disha Yadav",
+        "position":"member"
+      },
+      {
+        "name":"Vishal Tyagi",
+        "position":"member"
+      }
       ]
+
     }
   ]
 }

@@ -44,7 +44,7 @@ const Lab: NextPage<Props> = ({
                 key={key}
                 className="flex justify-center items-center w-40 h-20 mx-2 my-5 p-10"
               >
-                <Details key={key} name={syndicate.name} position="Syndicate" />
+                <Details key={key} name={syndicate.name} position="Syndicate" github={syndicate.github} linkedin={syndicate.linkedin} />
               </div>
             );
           })}
@@ -58,7 +58,7 @@ const Lab: NextPage<Props> = ({
                 key={key}
                 className="flex justify-center items-center p-4 w-40 h-20 mx-2 my-5"
               >
-                <Details key={key} name={member.name} position="Member" />
+                <Details key={key} name={member.name} position="Member" github={member.github} linkedin={member.linkedin} />
               </div>
             );
           })}
