@@ -1,452 +1,440 @@
 {
   "data": [
     {
-      "lab":"mccarthy-lab",
-      "name":"McCarthy Lab",
-      "about":"The McCarthy Lab is a dynamic and collaboration-driven group dedicated to research and work to answer deep and foundational questions in the theory of machine learning, ranging from fundamental Bayesian algorithms to deep learning methodologies. The main areas of development are supervised, unsupervised and reinforcement learning. Auxiliary applications such as Computer Vision and Natural Language Processing are also major cornerstones of development, and the ultimate goal of the lab is to familiarise themselves with a vast array of machine learning and deep learningalgorithms.",
-      "members":[
-      {
-        "name":"Janvi Somani",
-        "position":"syndicate"
-      },
-      {
-        "name":"Aman Agarwal",
-        "position":"syndicate"
-      },
-      {
-        "name":"Pranav Gupta",
-        "position":"syndicate"
-      },
-      {
-        "name":"Harshit Agrawal",
-        "position":"syndicate"
-      },
-      {
-        "name":"Kunal Mundada",
-        "position":"syndicate"
-      },
-      {
-        "name":"Karan Pargal",
-        "position":"member"
-      },
-      {
-        "name":"Rishikesh",
-        "position":"member"
-      },
-      {
-        "name":"Abhay Lal",
-        "position":"member"
-      },
-      {
-        "name":"Aditya Agrawal",
-        "position":"member"
-      },
-      {
-        "name":"Sneha Patnaik",
-        "position":"member"
-      },
-      {
-        "name":"Aryan Raj",
-        "position":"member"
-      },
-      {
-        "name":"Simran Sachdeva",
-        "position":"member"
-      },
-      {
-        "name":"Aryan Kargwal",
-        "position":"member"
-      },
-      {
-        "name":"Krish Katyal",
-        "position":"member"
-      },
-      {
-        "name":"Sashrika Surya",
-        "position":"member"
-      },
-      {
-        "name":"Ananya Jha",
-        "position":"member"
-      },
-      {
-        "name":"Aakash Kaushik",
-        "position":"member"
-      },
-      {
-        "name":"Aditya Mukherjee",
-        "position":"member"
-      },
-      {
-        "name":"Parikshit",
-        "position":"member"
-      },
-      {
-        "name":"Srijako",
-        "position":"member"
-      },
-      {
-        "name":"Indira Dutta",
-        "position":"member"
-      }
-      ]
-    },
-    {
-      "lab":"tesla-lab",
-      "name":"Tesla Lab",
-      "about":"Tesla Lab of IoT, Robotics and Web Development studies and develops a wide range of applications from mobile appliances, fully autonomous devices, and ML on-edge products to fully deployed websites with a beautiful front end to a robust backend The unorthodox fusion between core software and core hardware allows for end-to-end products to be built, tested, deployed and maintained all within the capacity of the lab. The sky's the limit for innovation, and the ability to redefine both the physical and virtual world to bend reality and one's abilities are the quintessential purposes of the lab",
-      "members":[
-      {
-        "name":"Swarnabha Das",
-        "position":"syndicate",
-        "github":"https://github.com/swarnabha13",
-        "linkedin":"https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
-      },
-      {
-        "name":"Snehil",
-        "position":"syndicate"
-      },
-      {
-        "name":"Atharva Patil",
-        "position":"syndicate"
-      },
-      {
-        "name":"Abhijeet",
-        "position":"syndicate"
-      },
-      {
-        "name":"Kishan Kumar",
-        "position":"member"
-      },
-      {
-        "name":"Gaurav Singh Chandrabhan",
-        "position":"member"
-      },
-      {
-        "name":"Kartikeya",
-        "position":"member"
-      },
-      {
-        "name":"Gita Alekhya Paul",
-        "position":"member"
-      },
-      {
-        "name":"Govind",
-        "position":"member"
-      },
-      {
-        "name":"Jayvardhan Rathi",
-        "position":"member"
-      },
-      {
-        "name":"Tanisha Bisht",
-        "position":"member"
-      },
-      {
-        "name":"Satyam",
-        "position":"member"
-      },
-      {
-        "name":"Parth Shah",
-        "position":"member"
-      },
-      {
-        "name":"Kanishk",
-        "position":"member"
-      },
-      {
-        "name":"Ria",
-        "position":"member"
-      },
-      {
-        "name":"Ronak Narkhende",
-        "position":"member"
-      },
-      {
-        "name":"Divyanshu Yadav",
-        "position":"member"
-      },
-      {
-        "name":"Subha Pal",
-        "position":"member"
-      },
-      {
-        "name":"Muzammil",
-        "position":"member"
-      },
-      {
-        "name":"Om Mukherjee",
-        "position":"member"
-      },
-      {
-        "name":"Disha Yadav",
-        "position":"member"
-      },
-      {
-        "name":"Vishal Tyagi",
-        "position":"member"
-      }
-      ]
-    },
-    {
-      "lab":"satoshi-lab",
-      "name":"Satoshi Lab",
-      "about":"Satoshi Lab for Blockchain and Cybersecurity has a dual focus on the emerging crypto space and the ever-present domain of defending against digital warfare. The nascent space of blockchain research into setting up a ledger-based authentication network from scratch, or working on applications for existing blockchains. Cybersecurity on the other hand deals with network security, penetration testing, revamping vulnerable websites, reverse engineering various exploits, and secure coding and cryptography techniques. The general aim of the lab is to automate the process of authentication and protection in our ever-expanding virtual space by employing advanced protection techniques and putting control into the hands of the general populace.",
-      "members":[
-      {
-        "name":"Shashank Joshi",
-        "position":"syndicate"
-      },
-      {
-        "name":"Arhan Choudhury",
-        "position":"syndicate"
-      },
-      {
-        "name":"Deepak ",
-        "position":"syndicate"
-      },
-      {
-        "name":"Manubhav Sharma",
-        "position":"syndicate"
-      },
-      {
-        "name":"Abhivansh Bhatnagar",
-        "position":"member"
-      },
-      {
-        "name":"Aditya Jain",
-        "position":"member"
-      },
-      {
-        "name":"Sreyom Sresaan",
-        "position":"member"
-      },
-      {
-        "name":"Shubha Jaiswal",
-        "position":"member"
-      },
-      {
-        "name":"Adrija Mukherjee",
-        "position":"member"
-      },
-      {
-        "name":"Mihir Gupta",
-        "position":"member"
-      },
-      {
-        "name":"Eeshan Dutta",
-        "position":"member"
-      },
-      {
-        "name":"Mayank",
-        "position":"member"
-      },
-      {
-        "name":"Yohenba Kshetriymayum",
-        "position":"member"
-      },
-      {
-        "name":"Adithya Balachandra",
-        "position":"member"
-      },
-      {
-        "name":"Rushil",
-        "position":"member"
-      }
-      ]
-    },
-    {
-      "lab":"pausch-lab",
-      "name":"Pausch Lab",
-      "about":"Pausch Lab for Human-Computer Interactions works on any field of tech that is closely related to interactive experiences with machines. Domains such as video game design and development, extended reality research which includes augmented reality, virtual reality and mixed reality, digital arts, 3D modelling, animations, user interface and experience design and audio design and engineering all come under this umbrella term of HCI.The interactive element of the research and development makes work done in this lab both intensive and fun. Members may specialise in only one of the aforementioned domains, or gain proficiency in some or all of them. ",
-      "members":[
-      {
-        "name":"Adamya Sharma",
-        "position":"syndicate"
-      },
-      {
-        "name":"Omang Baheti",
-        "position":"syndicate"
-      },
-      {
-        "name":"Tushar Vaid",
-        "position":"syndicate"
-      },
-      {
-        "name":"Ritik Srivastav",
-        "position":"syndicate"
-      },
-      {
-        "name":"Rishav Banerjee",
-        "position":"syndicate"
-      },
-      {
-        "name":"Vighnesh Pradhan",
-        "position":"member"
-      },
-      {
-        "name":"Somathing Luikham",
-        "position":"member"
-      },
-      {
-        "name":"Siddhant Naik",
-        "position":"member"
-      },
-      {
-        "name":"Akshat sen",
-        "position":"member"
-      },
-      {
-        "name":"Ravikul Rao",
-        "position":"member"
-      },
-      {
-        "name":"Vedant Singh",
-        "position":"member"
-      },
-      {
-        "name":"Rishabh Abhani",
-        "position":"member"
-      },
-      {
-        "name":"Anushree Bajaj",
-        "position":"member"
-      },
-      {
-        "name":"Shivam Shekhar",
-        "position":"member"
-      },
-      {
-        "name":"Soham Sakaria",
-        "position":"member"
-      },
-      {
-        "name":"Aniruddha Goutam",
-        "position":"member"
-      },
-      {
-        "name":"Chinmay Arora",
-        "position":"member"
-      },
-      {
-        "name":"Harsh Kulkarni",
-        "position":"member"
-      },
-      {
-        "name":"Shivam Bhardwaj",
-        "position":"member"
-      },
-      {
-        "name":"Divyansh Purohit",
-        "position":"member"
-      },
-      {
-        "name":"Shubra Agarwal",
-        "position":"member"
-      },
-      {
-        "name":"Naman Alagh",
-        "position":"member"
-      }
-      ]
-    },
-    {
-      "lab":"norman-lab",
-      "name":"Norman Lab",
-      "about":"Norman Lab",
-      "members":[
-      {
-        "name":"Swarnabha Das",
-        "position":"syndicate",
-        "github":"https://github.com/swarnabha13",
-        "linkedin":"https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
-      },
-      {
-        "name":"Snehil",
-        "position":"syndicate"
-      },
-      {
-        "name":"Atharva Patil",
-        "position":"syndicate"
-      },
-      {
-        "name":"Abhijeet",
-        "position":"syndicate"
-      },
-      {
-        "name":"Kishan Kumar",
-        "position":"member"
-      },
-      {
-        "name":"Gaurav Singh Chandrabhan",
-        "position":"member"
-      },
-      {
-        "name":"Kartikeya",
-        "position":"member"
-      },
-      {
-        "name":"Gita Alekhya Paul",
-        "position":"member"
-      },
-      {
-        "name":"Govind",
-        "position":"member"
-      },
-      {
-        "name":"Jayvardhan Rathi",
-        "position":"member"
-      },
-      {
-        "name":"Tanisha Bisht",
-        "position":"member"
-      },
-      {
-        "name":"Satyam",
-        "position":"member"
-      },
-      {
-        "name":"Parth Shah",
-        "position":"member"
-      },
-      {
-        "name":"Kanishk",
-        "position":"member"
-      },
-      {
-        "name":"Ria",
-        "position":"member"
-      },
-      {
-        "name":"Ronak Narkhende",
-        "position":"member"
-      },
-      {
-        "name":"Divyanshu Yadav",
-        "position":"member"
-      },
-      {
-        "name":"Subha Pal",
-        "position":"member"
-      },
-      {
-        "name":"Muzammil",
-        "position":"member"
-      },
-      {
-        "name":"Om Mukherjee",
-        "position":"member"
-      },
-      {
-        "name":"Disha Yadav",
-        "position":"member"
-      },
-      {
-        "name":"Vishal Tyagi",
-        "position":"member"
-      }
-      ]
+      "lab": "mccarthy-lab",
+      "name": "McCarthy Lab",
+      "about": "The McCarthy Lab is a dynamic and collaboration-driven group dedicated to research and work to answer deep and foundational questions in the theory of machine learning, ranging from fundamental Bayesian algorithms to deep learning methodologies. The main areas of development are supervised, unsupervised and reinforcement learning. Auxiliary applications such as Computer Vision and Natural Language Processing are also major cornerstones of development, and the ultimate goal of the lab is to familiarise themselves with a vast array of machine learning and deep learningalgorithms.",
+      "members": [
+        {
+          "name": "Krish Katyal",
+          "position": "syndicate"
+        },
+        {
+          "name": "Pranav Gupta",
+          "position": "syndicate"
+        },
 
+        {
+          "name": "Jai Singh",
+          "position": "member"
+        },
+        {
+          "name": "Akshat Goud",
+          "position": "member"
+        },
+        {
+          "name": "Shivam Mitter",
+          "position": "member"
+        },
+        {
+          "name": "Arnav Joshua Fernandes",
+          "position": "member"
+        },
+        {
+          "name": "Aditya Jambhale",
+          "position": "member"
+        },
+        {
+          "name": "Aryan Raj",
+          "position": "member"
+        },
+        {
+          "name": "Aditya Dubey",
+          "position": "member"
+        },
+        {
+          "name": "Arnav Sharma",
+          "position": "member"
+        },
+        {
+          "name": "Mathangy K",
+          "position": "member"
+        },
+        {
+          "name": "Sashrika Surya",
+          "position": "member"
+        },
+        {
+          "name": "Jai Singh",
+          "position": "member"
+        },
+        {
+          "name": "Ritesh Mishra",
+          "position": "member"
+        },
+        {
+          "name": "Aditya Jambhale",
+          "position": "member"
+        },
+        {
+          "name": "Prithvi Shah",
+          "position": "member"
+        },
+        {
+          "name": "Aastha HarishKumar patil",
+          "position": "member"
+        },
+        {
+          "name": "Hrithik Reddy",
+          "position": "member"
+        }
+      ]
+    },
+    {
+      "lab": "tesla-lab",
+      "name": "Tesla Lab",
+      "about": "Tesla Lab of IoT, Robotics and Web Development studies and develops a wide range of applications from mobile appliances, fully autonomous devices, and ML on-edge products to fully deployed websites with a beautiful front end to a robust backend The unorthodox fusion between core software and core hardware allows for end-to-end products to be built, tested, deployed and maintained all within the capacity of the lab. The sky's the limit for innovation, and the ability to redefine both the physical and virtual world to bend reality and one's abilities are the quintessential purposes of the lab",
+      "members": [
+        {
+          "name": "Swarnabha Das",
+          "position": "syndicate",
+          "github": "https://github.com/swarnabha13",
+          "linkedin": "https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
+        },
+        {
+          "name": "Snehil",
+          "position": "syndicate"
+        },
+        {
+          "name": "Atharva Patil",
+          "position": "syndicate"
+        },
+        {
+          "name": "Abhijeet",
+          "position": "syndicate"
+        },
+        {
+          "name": "Kishan Kumar",
+          "position": "member"
+        },
+        {
+          "name": "Gaurav Singh Chandrabhan",
+          "position": "member"
+        },
+        {
+          "name": "Kartikeya",
+          "position": "member"
+        },
+        {
+          "name": "Gita Alekhya Paul",
+          "position": "member"
+        },
+        {
+          "name": "Govind",
+          "position": "member"
+        },
+        {
+          "name": "Jayvardhan Rathi",
+          "position": "member"
+        },
+        {
+          "name": "Tanisha Bisht",
+          "position": "member"
+        },
+        {
+          "name": "Satyam",
+          "position": "member"
+        },
+        {
+          "name": "Parth Shah",
+          "position": "member"
+        },
+        {
+          "name": "Kanishk",
+          "position": "member"
+        },
+        {
+          "name": "Ria",
+          "position": "member"
+        },
+        {
+          "name": "Ronak Narkhende",
+          "position": "member"
+        },
+        {
+          "name": "Divyanshu Yadav",
+          "position": "member"
+        },
+        {
+          "name": "Subha Pal",
+          "position": "member"
+        },
+        {
+          "name": "Muzammil",
+          "position": "member"
+        },
+        {
+          "name": "Om Mukherjee",
+          "position": "member"
+        },
+        {
+          "name": "Disha Yadav",
+          "position": "member"
+        },
+        {
+          "name": "Vishal Tyagi",
+          "position": "member"
+        }
+      ]
+    },
+    {
+      "lab": "satoshi-lab",
+      "name": "Satoshi Lab",
+      "about": "Satoshi Lab for Blockchain and Cybersecurity has a dual focus on the emerging crypto space and the ever-present domain of defending against digital warfare. The nascent space of blockchain research into setting up a ledger-based authentication network from scratch, or working on applications for existing blockchains. Cybersecurity on the other hand deals with network security, penetration testing, revamping vulnerable websites, reverse engineering various exploits, and secure coding and cryptography techniques. The general aim of the lab is to automate the process of authentication and protection in our ever-expanding virtual space by employing advanced protection techniques and putting control into the hands of the general populace.",
+      "members": [
+        {
+          "name": "Shashank Joshi",
+          "position": "syndicate"
+        },
+        {
+          "name": "Arhan Choudhury",
+          "position": "syndicate"
+        },
+        {
+          "name": "Deepak ",
+          "position": "syndicate"
+        },
+        {
+          "name": "Manubhav Sharma",
+          "position": "syndicate"
+        },
+        {
+          "name": "Abhivansh Bhatnagar",
+          "position": "member"
+        },
+        {
+          "name": "Aditya Jain",
+          "position": "member"
+        },
+        {
+          "name": "Sreyom Sresaan",
+          "position": "member"
+        },
+        {
+          "name": "Shubha Jaiswal",
+          "position": "member"
+        },
+        {
+          "name": "Adrija Mukherjee",
+          "position": "member"
+        },
+        {
+          "name": "Mihir Gupta",
+          "position": "member"
+        },
+        {
+          "name": "Eeshan Dutta",
+          "position": "member"
+        },
+        {
+          "name": "Mayank",
+          "position": "member"
+        },
+        {
+          "name": "Yohenba Kshetriymayum",
+          "position": "member"
+        },
+        {
+          "name": "Adithya Balachandra",
+          "position": "member"
+        },
+        {
+          "name": "Rushil",
+          "position": "member"
+        }
+      ]
+    },
+    {
+      "lab": "pausch-lab",
+      "name": "Pausch Lab",
+      "about": "Pausch Lab for Human-Computer Interactions works on any field of tech that is closely related to interactive experiences with machines. Domains such as video game design and development, extended reality research which includes augmented reality, virtual reality and mixed reality, digital arts, 3D modelling, animations, user interface and experience design and audio design and engineering all come under this umbrella term of HCI.The interactive element of the research and development makes work done in this lab both intensive and fun. Members may specialise in only one of the aforementioned domains, or gain proficiency in some or all of them. ",
+      "members": [
+        {
+          "name": "Adamya Sharma",
+          "position": "syndicate"
+        },
+        {
+          "name": "Omang Baheti",
+          "position": "syndicate"
+        },
+        {
+          "name": "Tushar Vaid",
+          "position": "syndicate"
+        },
+        {
+          "name": "Ritik Srivastav",
+          "position": "syndicate"
+        },
+        {
+          "name": "Rishav Banerjee",
+          "position": "syndicate"
+        },
+        {
+          "name": "Vighnesh Pradhan",
+          "position": "member"
+        },
+        {
+          "name": "Somathing Luikham",
+          "position": "member"
+        },
+        {
+          "name": "Siddhant Naik",
+          "position": "member"
+        },
+        {
+          "name": "Akshat sen",
+          "position": "member"
+        },
+        {
+          "name": "Ravikul Rao",
+          "position": "member"
+        },
+        {
+          "name": "Vedant Singh",
+          "position": "member"
+        },
+        {
+          "name": "Rishabh Abhani",
+          "position": "member"
+        },
+        {
+          "name": "Anushree Bajaj",
+          "position": "member"
+        },
+        {
+          "name": "Shivam Shekhar",
+          "position": "member"
+        },
+        {
+          "name": "Soham Sakaria",
+          "position": "member"
+        },
+        {
+          "name": "Aniruddha Goutam",
+          "position": "member"
+        },
+        {
+          "name": "Chinmay Arora",
+          "position": "member"
+        },
+        {
+          "name": "Harsh Kulkarni",
+          "position": "member"
+        },
+        {
+          "name": "Shivam Bhardwaj",
+          "position": "member"
+        },
+        {
+          "name": "Divyansh Purohit",
+          "position": "member"
+        },
+        {
+          "name": "Shubra Agarwal",
+          "position": "member"
+        },
+        {
+          "name": "Naman Alagh",
+          "position": "member"
+        }
+      ]
+    },
+    {
+      "lab": "norman-lab",
+      "name": "Norman Lab",
+      "about": "Norman Lab",
+      "members": [
+        {
+          "name": "Swarnabha Das",
+          "position": "syndicate",
+          "github": "https://github.com/swarnabha13",
+          "linkedin": "https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
+        },
+        {
+          "name": "Snehil",
+          "position": "syndicate"
+        },
+        {
+          "name": "Atharva Patil",
+          "position": "syndicate"
+        },
+        {
+          "name": "Abhijeet",
+          "position": "syndicate"
+        },
+        {
+          "name": "Kishan Kumar",
+          "position": "member"
+        },
+        {
+          "name": "Gaurav Singh Chandrabhan",
+          "position": "member"
+        },
+        {
+          "name": "Kartikeya",
+          "position": "member"
+        },
+        {
+          "name": "Gita Alekhya Paul",
+          "position": "member"
+        },
+        {
+          "name": "Govind",
+          "position": "member"
+        },
+        {
+          "name": "Jayvardhan Rathi",
+          "position": "member"
+        },
+        {
+          "name": "Tanisha Bisht",
+          "position": "member"
+        },
+        {
+          "name": "Satyam",
+          "position": "member"
+        },
+        {
+          "name": "Parth Shah",
+          "position": "member"
+        },
+        {
+          "name": "Kanishk",
+          "position": "member"
+        },
+        {
+          "name": "Ria",
+          "position": "member"
+        },
+        {
+          "name": "Ronak Narkhende",
+          "position": "member"
+        },
+        {
+          "name": "Divyanshu Yadav",
+          "position": "member"
+        },
+        {
+          "name": "Subha Pal",
+          "position": "member"
+        },
+        {
+          "name": "Muzammil",
+          "position": "member"
+        },
+        {
+          "name": "Om Mukherjee",
+          "position": "member"
+        },
+        {
+          "name": "Disha Yadav",
+          "position": "member"
+        },
+        {
+          "name": "Vishal Tyagi",
+          "position": "member"
+        }
+      ]
     }
   ]
 }
