@@ -77,102 +77,145 @@
       ]
     },
     {
-      "lab": "tesla-lab",
-      "name": "Tesla Lab",
-      "about": "Tesla Lab of IoT, Robotics and Web Development studies and develops a wide range of applications from mobile appliances, fully autonomous devices, and ML on-edge products to fully deployed websites with a beautiful front end to a robust backend The unorthodox fusion between core software and core hardware allows for end-to-end products to be built, tested, deployed and maintained all within the capacity of the lab. The sky's the limit for innovation, and the ability to redefine both the physical and virtual world to bend reality and one's abilities are the quintessential purposes of the lab",
-      "members": [
-        {
-          "name": "Swarnabha Das",
-          "position": "syndicate",
-          "github": "https://github.com/swarnabha13",
-          "linkedin": "https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
-        },
-        {
-          "name": "Snehil",
-          "position": "syndicate"
-        },
-        {
-          "name": "Atharva Patil",
-          "position": "syndicate"
-        },
-        {
-          "name": "Abhijeet",
-          "position": "syndicate"
-        },
-        {
-          "name": "Kishan Kumar",
-          "position": "member"
-        },
-        {
-          "name": "Gaurav Singh Chandrabhan",
-          "position": "member"
-        },
-        {
-          "name": "Kartikeya",
-          "position": "member"
-        },
-        {
-          "name": "Gita Alekhya Paul",
-          "position": "member"
-        },
-        {
-          "name": "Govind",
-          "position": "member"
-        },
-        {
-          "name": "Jayvardhan Rathi",
-          "position": "member"
-        },
-        {
-          "name": "Tanisha Bisht",
-          "position": "member"
-        },
-        {
-          "name": "Satyam",
-          "position": "member"
-        },
-        {
-          "name": "Parth Shah",
-          "position": "member"
-        },
-        {
-          "name": "Kanishk",
-          "position": "member"
-        },
-        {
-          "name": "Ria",
-          "position": "member"
-        },
-        {
-          "name": "Ronak Narkhende",
-          "position": "member"
-        },
-        {
-          "name": "Divyanshu Yadav",
-          "position": "member"
-        },
-        {
-          "name": "Subha Pal",
-          "position": "member"
-        },
-        {
-          "name": "Muzammil",
-          "position": "member"
-        },
-        {
-          "name": "Om Mukherjee",
-          "position": "member"
-        },
-        {
-          "name": "Disha Yadav",
-          "position": "member"
-        },
-        {
-          "name": "Vishal Tyagi",
-          "position": "member"
-        }
+      "lab":"tesla-lab",
+      "name":"Tesla Lab",
+      "about":"Tesla Lab of IoT, Robotics and Web Development studies and develops a wide range of applications from mobile appliances, fully autonomous devices, and ML on-edge products to fully deployed websites with a beautiful front end to a robust backend The unorthodox fusion between core software and core hardware allows for end-to-end products to be built, tested, deployed and maintained all within the capacity of the lab. The sky's the limit for innovation, and the ability to redefine both the physical and virtual world to bend reality and one's abilities are the quintessential purposes of the lab",
+      "members":[
+      {
+      "name":"Abid",
+      "position":"syndicate",
+      "github":"https://github.com/swarnabha13",
+      "linkedin":"https://www.linkedin.com/in/swarnabha-das-1b1b3b1a0/"
+      },
+      {
+      "name":"Snehil",
+      "position":"member"
+      },
+      {
+      "name":"Atharva Patil",
+      "position":"member"
+      },
+      {
+      "name":"Abhijeet",
+      "position":"member"
+      },
+      {
+      "name":"Kishan Kumar",
+      "position":"member"
+      },
+      {
+      "name":"Gaurav Singh Chandrabhan",
+      "position":"member"
+      },
+      {
+      "name":"Kartikeya",
+      "position":"member"
+      },
+      {
+      "name":"Gita Alekhya Paul",
+      "position":"member"
+      },
+      {
+      "name":"Govind",
+      "position":"member"
+      },
+      {
+      "name":"Jayvardhan Rathi",
+      "position":"member"
+      },
+      {
+      "name":"Tanisha Bisht",
+      "position":"member"
+      },
+      {
+      "name":"Satyam Sai",
+      "position":"member"
+      },
+      {
+      "name":"Parth Shah",
+      "position":"member"
+      },
+      {
+      "name":"Kanishk",
+      "position":"member"
+      },
+      {
+      "name":"Ria",
+      "position":"member"
+      },
+      {
+      "name":"Ronak Narkhende",
+      "position":"member"
+      },
+      {
+      "name":"Divyanshu Yadav",
+      "position":"member"
+      },
+      {
+      "name":"Subha Pal",
+      "position":"member"
+      },
+      {
+      "name":"Muzammil",
+      "position":"member"
+      },
+      {
+      "name":"Om Mukherjee",
+      "position":"member"
+      },
+      {
+      "name":"Disha Yadav",
+      "position":"member"
+      },
+      {
+      "name":"Vishal Tyagi",
+      "position":"member"
+      },
+      {
+      "name":"Aakash",
+      "position":"member"
+      },
+      {
+      "name": "Anish Patil",
+      "position": "member"
+      },
+      {
+      "name": "Harsh Bajaj",
+      "position": "member"
+      },
+      {
+      "name": "Anurag Jain",
+      "position": "member"
+      
+      },
+      {
+      "name": "Arvind A",
+      "position" : "member"
+      },
+      {
+      "name": "Aaditya Sarin",
+      "position": "member"
+      },
+      {
+      "name": "Anshul",
+      "position" : "member"
+      },
+      {
+      "name" : "Sumanth Gopishetty",
+      "position" : "member"
+      },
+      {
+      "name" : "Abdul Ahad",
+      "position" : "member"
+      },
+      {
+      "name" : "Alok Prasad",
+      "position" : "member"
+      }
+      
+      
       ]
-    },
+      },
     {
       "lab": "satoshi-lab",
       "name": "Satoshi Lab",
