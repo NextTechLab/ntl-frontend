@@ -1,11 +1,11 @@
-import React from "react";
-import Details from "../components/Sublabs/Details";
+import React from "react"
+import Details from "../components/Sublabs/Details"
 type Props = {
-  syndicates: any;
-  members: any;
-  about: any;
-  lab: any;
-};
+  syndicates: any
+  members: any
+  about: any
+  lab: any
+}
 
 const Lab: NextPage<Props> = ({
   syndicates,
@@ -23,7 +23,7 @@ const Lab: NextPage<Props> = ({
       </Head>
       <div className="">
         <picture>
-          <img className="w-full" src="/sublab.svg" alt="" />
+          <img className="w-full" src="/sublab.jpeg" alt="" />
         </picture>
       </div>
       <div className=" bg-[#FFFFF0] ">
@@ -44,9 +44,15 @@ const Lab: NextPage<Props> = ({
                 key={key}
                 className="flex justify-center items-center w-40 h-20 mx-2 my-5 p-10"
               >
-                <Details key={key} name={syndicate.name} position="Syndicate" github={syndicate.github} linkedin={syndicate.linkedin} />
+                <Details
+                  key={key}
+                  name={syndicate.name}
+                  position="Syndicate"
+                  github={syndicate.github}
+                  linkedin={syndicate.linkedin}
+                />
               </div>
-            );
+            )
           })}
         </div>
 
@@ -58,36 +64,42 @@ const Lab: NextPage<Props> = ({
                 key={key}
                 className="flex justify-center items-center p-4 w-40 h-20 mx-2 my-5"
               >
-                <Details key={key} name={member.name} position="Member" github={member.github} linkedin={member.linkedin} />
+                <Details
+                  key={key}
+                  name={member.name}
+                  position="Member"
+                  github={member.github}
+                  linkedin={member.linkedin}
+                />
               </div>
-            );
+            )
           })}
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
 // Fetching data from the JSON file
-import fsPromises from "fs/promises";
-import path from "path";
-import { NextPage } from "next";
-import Head from "next/head";
+import fsPromises from "fs/promises"
+import path from "path"
+import { NextPage } from "next"
+import Head from "next/head"
 export async function getServerSideProps(context: any) {
-  const filePath = path.join(process.cwd(), "utils/Data.json");
-  const jsonData = await fsPromises.readFile(filePath);
-  const objectData = JSON.parse(jsonData.toString());
+  const filePath = path.join(process.cwd(), "utils/Data.json")
+  const jsonData = await fsPromises.readFile(filePath)
+  const objectData = JSON.parse(jsonData.toString())
   const data = objectData.data.filter((item: any) => {
-    return item.lab === context.params.slug;
-  });
-  const allMembers = data[0].members;
-  const about = data[0].about;
-  const lab = data[0].name;
+    return item.lab === context.params.slug
+  })
+  const allMembers = data[0].members
+  const about = data[0].about
+  const lab = data[0].name
   const syndicates = allMembers.filter(
     (item: any) => item.position === "syndicate"
-  );
+  )
 
-  const members = allMembers.filter((item: any) => item.position === "member");
+  const members = allMembers.filter((item: any) => item.position === "member")
 
   return {
     props: {
@@ -96,7 +108,7 @@ export async function getServerSideProps(context: any) {
       about,
       members,
     },
-  };
+  }
 }
 
-export default Lab;
+export default Lab
