@@ -20,7 +20,7 @@ const Sublabs: FunctionComponent = () => {
           name={SATOSHI.NAME}
           slug={SATOSHI.SLUG}
         />
-        <Labcards image="/tesla6.jpeg" name={TESLA.NAME} slug={TESLA.SLUG} />
+        <Labcards image="/tesla.jpeg" name={TESLA.NAME} slug={TESLA.SLUG} />
         <Labcards image="/norman.jpeg" name={NORMAN.NAME} slug={NORMAN.SLUG} />
       </div>
     </div>
