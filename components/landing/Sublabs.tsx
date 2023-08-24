@@ -14,13 +14,13 @@ const Sublabs: FunctionComponent = () => {
           slug={MCCARTHY.SLUG}
         />
         {/* <Labcards image="/mccarthy.png" name={NORMAN.NAME} slug={NORMAN.SLUG} /> */}
-        <Labcards image="/pausch.jpeg" name={PAUSCH.NAME} slug={PAUSCH.SLUG} />
+        <Labcards image="/pausch1.jpeg" name={PAUSCH.NAME} slug={PAUSCH.SLUG} />
         <Labcards
           image="/satoshi.jpeg"
           name={SATOSHI.NAME}
           slug={SATOSHI.SLUG}
         />
-        <Labcards image="/tesla.jpeg" name={TESLA.NAME} slug={TESLA.SLUG} />
+        <Labcards image="/tesla2.jpeg" name={TESLA.NAME} slug={TESLA.SLUG} />
         <Labcards image="/norman.jpeg" name={NORMAN.NAME} slug={NORMAN.SLUG} />
       </div>
     </div>

@@ -1,9 +1,9 @@
-import Link from "next/link";
-import React, { FunctionComponent } from "react";
+import Link from "next/link"
+import React, { FunctionComponent } from "react"
 interface Labtype {
-  name: string;
-  image: string;
-  slug: string;
+  name: string
+  image: string
+  slug: string
 }
 
 const Labcards: FunctionComponent<Labtype> = ({
@@ -17,7 +17,12 @@ const Labcards: FunctionComponent<Labtype> = ({
         <div className="event-card-master lg:block md:flex md:flex-col md:justify-evenly">
           <div className="image-block justify-center flex mb-3 py-4">
             <picture>
-              <img src={image} width={200} alt="lab-image" />
+              <img
+                src={image}
+                width={200}
+                alt="lab-image"
+                className="rounded-lg"
+              />
             </picture>
           </div>
           <h3 className=" text-center md:text-2xl sm:tracking-widest md:tracking-tight font-semibold mb-3">
@@ -33,7 +38,7 @@ const Labcards: FunctionComponent<Labtype> = ({
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Labcards;
+export default Labcards
